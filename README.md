@@ -1,6 +1,6 @@
 # MSDS_DataMining
 # Lab1
-# By Chiranjeevi Mallavarapu, Nitya Doss, Ramesh Simhabhatla, Ramya Mandava
+# By Chiranjeevi Mallavarapu, Nithya Doss, Ramesh Simhabhatla, Ramya Mandava
 
 ##### Business Understanding ##############
 
